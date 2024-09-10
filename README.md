@@ -1,5 +1,8 @@
 ## 👋 Hi there, I'm Nguyen Vo Hoang Khang
 
+![](https://komarev.com/ghpvc/?username=HoangKhang5207)
+
+
 <!--
 **HoangKhang5207/HoangKhang5207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
