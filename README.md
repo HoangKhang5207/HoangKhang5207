@@ -21,6 +21,7 @@
 <a href="https://www.linkedin.com/in/khang-nguyen-2k3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khang nguyen" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/hoangkhang161121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hoangkhang161121" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/khang161103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khang161103/" height="30" width="40" /></a>
+<a href="https://dev.to/hoangkhang5207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoangkhang5207" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technology stack:</h3>
